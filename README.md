@@ -59,6 +59,7 @@ This project demonstrates core mobile development concepts including REST API in
 
 ## 📂 Project Structure
 
+```text
 lib/
 ├── models/          # Data models (Product, etc.)
 ├── screens/         # UI Screens (Home, Detail, Cart)

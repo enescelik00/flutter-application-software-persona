@@ -6,11 +6,34 @@ This project demonstrates core mobile development concepts including REST API in
 
 ## 📱 Screenshots
 
-<img width="365" height="797" alt="home_screen" src="https://github.com/user-attachments/assets/83783c9f-1ade-4dfb-8670-fd764254a66a" />
-<img width="381" height="817" alt="home_screen_with_search" src="https://github.com/user-attachments/assets/3cbf545b-95f9-4ce1-b3c9-862610e5c03e" />
-<img width="377" height="816" alt="details_screen" src="https://github.com/user-attachments/assets/ec933113-a484-41ce-a660-b51486420ae3" />
-<img width="387" height="817" alt="cart_screen" src="https://github.com/user-attachments/assets/931347c5-e686-4641-84f4-93e7491643c0" />
-<img width="387" height="825" alt="empty_cart_screen" src="https://github.com/user-attachments/assets/40e59bc1-120f-401e-a90d-85bc892a648e" />
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Ana Sayfa</b></td>
+      <td align="center"><b>Arama Modu</b></td>
+      <td align="center"><b>Ürün Detayı</b></td>
+      <td align="center"><b>Sepet (Dolu)</b></td>
+      <td align="center"><b>Sepet (Boş)</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/83783c9f-1ade-4dfb-8670-fd764254a66a" width="160" />
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/3cbf545b-95f9-4ce1-b3c9-862610e5c03e" width="160" />
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/ec933113-a484-41ce-a660-b51486420ae3" width="160" />
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/931347c5-e686-4641-84f4-93e7491643c0" width="160" />
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/40e59bc1-120f-401e-a90d-85bc892a648e" width="160" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## ✨ Key Features
 

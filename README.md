@@ -9,11 +9,11 @@ This project demonstrates core mobile development concepts including REST API in
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>Ana Sayfa</b></td>
-      <td align="center"><b>Arama Modu</b></td>
-      <td align="center"><b>Ürün Detayı</b></td>
-      <td align="center"><b>Sepet (Dolu)</b></td>
-      <td align="center"><b>Sepet (Boş)</b></td>
+      <td align="center"><b>Home Page</b></td>
+      <td align="center"><b>Search Mode</b></td>
+      <td align="center"><b>Product Details</b></td>
+      <td align="center"><b>Cart with Items</b></td>
+      <td align="center"><b>Empty Cart</b></td>
     </tr>
     <tr>
       <td align="center">

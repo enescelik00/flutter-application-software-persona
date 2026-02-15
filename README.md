@@ -66,6 +66,7 @@ lib/
 ├── services/        # API Service logic
 ├── widgets/         # Reusable UI Components
 └── main.dart        # Entry point & Theme configuration
+```
 
 ## 🚀 Getting Started
 
